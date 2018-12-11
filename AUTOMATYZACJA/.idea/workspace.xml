@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b223555-bc73-4bb7-9fe0-fdc8ca316c4a" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="a05dba31-9ac4-4789-8928-de27ffeba67a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kalkulator/KalkulatorApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kalkulator/KalkulatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/CalculatorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Kalkulator/KalkulatorAppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Kalkulator/KalkulatorAppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/calculator/CalculatorAppTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,38 +20,26 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/calculator/CalculatorAppTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Kalkulator/KalkulatorApp.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/calculator/CalculatorApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="34">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
               <folding>
                 <element signature="e#84#85#0" expanded="true" />
                 <element signature="e#111#112#0" expanded="true" />
                 <element signature="e#154#155#0" expanded="true" />
                 <element signature="e#182#183#0" expanded="true" />
                 <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Kalkulator/KalkulatorAppTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-323">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,53 +47,26 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Kalkulator/kalkulator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Kalkulator/KalkulatorApp.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Kalkulator/KalkulatorAppTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/calculator/KalkulatorAppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/calculator/KalkulatorApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/calculator/CalculatorApp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/calculator/CalculatorAppTest.java" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="autojava" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="autojava" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="117" />
-    <option name="y" value="26" />
-    <option name="width" value="1544" />
-    <option name="height" value="899" />
+    <option name="x" value="116" />
+    <option name="y" value="25" />
+    <option name="width" value="1545" />
+    <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -110,58 +78,54 @@
           <expand>
             <path>
               <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AUTOMATYZACJA TESTÓW" type="462c0819:PsiDirectoryNode" />
+              <item name="AUTOMATYZACJA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AUTOMATYZACJA TESTÓW" type="462c0819:PsiDirectoryNode" />
+              <item name="AUTOMATYZACJA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AUTOMATYZACJA TESTÓW" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AUTOMATYZACJA TESTÓW" type="462c0819:PsiDirectoryNode" />
+              <item name="AUTOMATYZACJA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AUTOMATYZACJA TESTÓW" type="462c0819:PsiDirectoryNode" />
+              <item name="AUTOMATYZACJA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Kalkulator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AUTOMATYZACJA TESTÓW" type="462c0819:PsiDirectoryNode" />
+              <item name="AUTOMATYZACJA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AUTOMATYZACJA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AUTOMATYZACJA TESTÓW" type="462c0819:PsiDirectoryNode" />
+              <item name="AUTOMATYZACJA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AUTOMATYZACJA TESTÓW" type="462c0819:PsiDirectoryNode" />
+              <item name="AUTOMATYZACJA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Kalkulator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="autojava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,21 +135,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544534730733" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="Kalkulator" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544538438849" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,75 +149,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.KalkulatorAppTest.ddzielenie">
-    <configuration name="KalkulatorAppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AUTOMATYZACJA TESTÓW" />
+  <component name="RunManager">
+    <configuration name="CalculatorAppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="autojava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kalkulator.*" />
+          <option name="PATTERN" value="calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Kalkulator" />
-      <option name="MAIN_CLASS_NAME" value="Kalkulator.KalkulatorAppTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KalkulatorAppTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AUTOMATYZACJA TESTÓW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kalkulator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Kalkulator" />
-      <option name="MAIN_CLASS_NAME" value="Kalkulator.KalkulatorAppTest" />
-      <option name="METHOD_NAME" value="add" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KalkulatorAppTest.addd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AUTOMATYZACJA TESTÓW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kalkulator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Kalkulator" />
-      <option name="MAIN_CLASS_NAME" value="Kalkulator.KalkulatorAppTest" />
-      <option name="METHOD_NAME" value="addd" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KalkulatorAppTest.ddzielenie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AUTOMATYZACJA TESTÓW" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kalkulator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Kalkulator" />
-      <option name="MAIN_CLASS_NAME" value="Kalkulator.KalkulatorAppTest" />
-      <option name="METHOD_NAME" value="ddzielenie" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="calculator" />
+      <option name="MAIN_CLASS_NAME" value="calculator.CalculatorAppTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.KalkulatorAppTest.ddzielenie" />
-        <item itemvalue="JUnit.KalkulatorAppTest.add" />
-        <item itemvalue="JUnit.KalkulatorAppTest" />
-        <item itemvalue="JUnit.KalkulatorAppTest.addd" />
+        <item itemvalue="JUnit.CalculatorAppTest" />
       </list>
     </recent_temporary>
   </component>
@@ -276,44 +175,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2b223555-bc73-4bb7-9fe0-fdc8ca316c4a" name="Default Changelist" comment="" />
-      <created>1544517767889</created>
+      <changelist id="a05dba31-9ac4-4789-8928-de27ffeba67a" name="Default Changelist" comment="" />
+      <created>1544537529903</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1544517767889</updated>
+      <updated>1544537529903</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="KalkulatorAppTest - 2018.12.11 at 11h 17m 03s.xml">
+    <history-entry file="KalkulatorAppTest - 2018.12.11 at 15h 18m 19s.xml">
       <configuration name="KalkulatorAppTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KalkulatorAppTest - 2018.12.11 at 11h 23m 13s.xml">
-      <configuration name="KalkulatorAppTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KalkulatorAppTest_addd - 2018.12.11 at 11h 39m 40s.xml">
-      <configuration name="KalkulatorAppTest.addd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KalkulatorAppTest_addd - 2018.12.11 at 11h 40m 13s.xml">
-      <configuration name="KalkulatorAppTest.addd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KalkulatorAppTest_addd - 2018.12.11 at 11h 40m 58s.xml">
-      <configuration name="KalkulatorAppTest.addd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KalkulatorAppTest_addd - 2018.12.11 at 11h 50m 06s.xml">
-      <configuration name="KalkulatorAppTest.addd" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KalkulatorAppTest - 2018.12.11 at 11h 54m 15s.xml">
-      <configuration name="KalkulatorAppTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KalkulatorAppTest_ddzielenie - 2018.12.11 at 12h 18m 44s.xml">
-      <configuration name="KalkulatorAppTest.ddzielenie" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KalkulatorAppTest_ddzielenie - 2018.12.11 at 12h 21m 05s.xml">
-      <configuration name="KalkulatorAppTest.ddzielenie" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KalkulatorAppTest_ddzielenie - 2018.12.11 at 12h 45m 38s.xml">
-      <configuration name="KalkulatorAppTest.ddzielenie" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -325,164 +197,51 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5026846" side_tool="true" weight="0.32909605" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49731544" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.36299434" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32909605" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" visible="true" weight="0.23221476" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24966443" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5026846" side_tool="true" visible="true" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Messages" order="3" sideWeight="0.49731544" visible="true" weight="0.32909605" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49932885" weight="0.43644068" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Kalkulator/KalkulatorApp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/CalculatorApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
           <folding>
             <element signature="e#84#85#0" expanded="true" />
             <element signature="e#111#112#0" expanded="true" />
             <element signature="e#154#155#0" expanded="true" />
             <element signature="e#182#183#0" expanded="true" />
             <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Kalkulator/KalkulatorAppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/calculator/CalculatorAppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>AUTOMATYZACJA TESTÓW</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
