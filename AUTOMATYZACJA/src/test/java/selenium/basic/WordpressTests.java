@@ -49,7 +49,7 @@ public class WordpressTests {
     @AfterEach
     public void closeDriver() {
 
-       // driver.quit();
+        driver.quit();
 
     }
 
