@@ -15,9 +15,9 @@ public class BaseTest {
 
     }
 
-    @AfterEach
-    public void quitBrowser() {
-        driver.quit();
-    }
+   // @AfterEach
+   // public void quitBrowser() {
+   //     driver.quit();
+ //   }
 
 }

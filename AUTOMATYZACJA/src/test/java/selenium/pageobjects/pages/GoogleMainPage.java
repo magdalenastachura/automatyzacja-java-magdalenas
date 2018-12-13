@@ -16,7 +16,7 @@ public class GoogleMainPage {
         gmpDriver.get(GOOGLE_PAGE_URL); // otwiramy stronę googla <--- w tym momencie wracamy do testów
     }
 
-    public selenium.pageobjects.pages.GoogleResultPage search(String searchQuery) { //SearchQuery jest tylko zmiennąlokalną
+    public selenium.pageobjects.pages.GoogleResultPage search(String searchQuery) { //SearchQuery jest tylko zmienną lokalną
 
         WebElement searchBox = gmpDriver.findElement(SEARCH_BOX_LOC);
         searchBox.sendKeys(searchQuery);

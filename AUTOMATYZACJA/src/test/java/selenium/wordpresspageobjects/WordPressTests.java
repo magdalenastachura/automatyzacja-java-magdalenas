@@ -26,7 +26,7 @@ public class WordPressTests extends BaseTest { // extands że będzie dziedziczy
          // po opublikowaniu notki będę miała już inną stronę - przeładowaną - to już nie bedzie strona dodawania komentarza
         // trzy różne zmienne bo za każdym razem są to inne strony
 
-        Assertions.assertTrue(latestNote.commentExists(comment, author)); // teraz robię assercję
+        Assertions.assertTrue(latestNote.commentExists(comment)); // teraz robię assercję
     }
 
     private String generateRandomEmail() {
