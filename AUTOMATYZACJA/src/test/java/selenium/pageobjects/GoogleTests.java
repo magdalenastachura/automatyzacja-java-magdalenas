@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import selenium.pageobjects.pages.GoogleMainPage;
 import selenium.pageobjects.pages.GoogleResultPage;
 
-public class GoogleTests extends selenium.pagebjects.BaseTest {
+public class GoogleTests extends selenium.pageobjects.BaseTest {
 
     @Test
     public void canFindScrumOrgOnGoogle() {

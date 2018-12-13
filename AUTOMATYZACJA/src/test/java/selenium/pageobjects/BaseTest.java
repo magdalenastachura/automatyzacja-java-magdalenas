@@ -1,4 +1,4 @@
-package selenium.pagebjects;
+package selenium.pageobjects;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
